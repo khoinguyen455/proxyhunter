@@ -3,9 +3,13 @@
 # Phần mềm check proxy/Proxy checking software By [@khoinguyen566](https://t.me/khoinguyen566)
 ![Preview](https://sf-static.upanhlaylink.com/img/image_2026051405e8bfc952d632ef038700fa4f18fd6b.jpg)
 ---
-## Open Source
-> Notes: Tôi đẫ nâng cấp file 
->
+## 🔓 Open Source
+> Vietnam : **Notes:** Tôi đẫ nâng cấp file [prx.py](https://raw.githubusercontent.com/khoinguyen455/proxyhunter/refs/heads/main/prx.py) file `prx_gui_1.py` được hỗ trợ qua ai [Claude](https://claude.ai/). Và dự án được open source
+
+> English: **Notes:** I upgraded the [prx.py](https://raw.githubusercontent.com/khoinguyen455/proxyhunter/refs/heads/main/prx.py) and `prx_gui_1.py` files with AI support from [Claude](https://claude.ai/). The project is also open source.
+## Info Contact/Thông tin liên hệ
+- **Telegram:** [@khoinguyen566](https://t.me/khoinguyen566)
+- **Gruop Telegram:** [Join group](https://t.me/+WVAiTiVrELZlYmM1)
 ## Proxy Hunter V1.0.0 - What's New
 ### English
 - Supports adding and removing sources
