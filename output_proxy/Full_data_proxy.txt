@@ -1,0 +1,190 @@
+[LIVE] 31.131.248.48:3129 | TRANSPARENT | DATACENTER | 802ms | Score: 30 | ISP: JSC Selectel | Google: ❌ CF: ❌
+[LIVE] 152.32.132.190:7890 | TRANSPARENT | DATACENTER | 462ms | Score: 55 | ISP: UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | Google: ✅ CF: ✅
+[LIVE] 31.131.248.51:3129 | TRANSPARENT | DATACENTER | 1409ms | Score: 45 | ISP: JSC Selectel | Google: ✅ CF: ✅
+[LIVE] 158.160.215.167:8123 | TRANSPARENT | DATACENTER | 1454ms | Score: 45 | ISP: Yandex.Cloud LLC | Google: ✅ CF: ✅
+[LIVE] 172.237.73.24:80 | TRANSPARENT | DATACENTER | 590ms | Score: 35 | ISP: Akamai Technologies, Inc. | Google: ❌ CF: ❌
+[LIVE] 120.92.108.86:7890 | TRANSPARENT | DATACENTER | 2186ms | Score: 35 | ISP: Beijing Kingsoft Cloud Internet Technology Co | Google: ✅ CF: ❌
+[LIVE] 80.92.204.47:1081 | TRANSPARENT | DATACENTER | 1446ms | Score: 45 | ISP: WorkTitans B.V. | Google: ✅ CF: ✅
+[LIVE] 203.19.38.114:1080 | TRANSPARENT | DATACENTER | 680ms | Score: 30 | ISP: China Telecom Global networks | Google: ❌ CF: ❌
+[LIVE] 175.101.240.38:80 | TRANSPARENT | RESIDENTIAL | 1137ms | Score: 40 | ISP: Excell Media Pvt Ltd | Google: ❌ CF: ❌
+[LIVE] 38.7.195.55:999 | TRANSPARENT | DATACENTER | 5281ms | Score: 45 | ISP: Grupo ZGH SpA | Google: ✅ CF: ✅
+[LIVE] 174.138.168.94:8254 | TRANSPARENT | DATACENTER | 2951ms | Score: 45 | ISP: Secured Servers LLC | Google: ✅ CF: ✅
+[LIVE] 174.138.170.62:8001 | TRANSPARENT | DATACENTER | 2715ms | Score: 45 | ISP: Secured Servers LLC | Google: ✅ CF: ✅
+[LIVE] 185.82.218.85:80 | TRANSPARENT | DATACENTER | 771ms | Score: 30 | ISP: Green Floid LLC | Google: ❌ CF: ❌
+[LIVE] 14.143.222.113:10155 | TRANSPARENT | DATACENTER | 1390ms | Score: 25 | ISP: Tata Communications Limited | Google: ❌ CF: ❌
+[LIVE] 194.102.38.53:80 | TRANSPARENT | DATACENTER | 1551ms | Score: 25 | ISP: M247 Europe SRL | Google: ❌ CF: ❌
+[LIVE] 174.138.168.78:8001 | TRANSPARENT | DATACENTER | 2406ms | Score: 35 | ISP: Secured Servers LLC | Google: ✅ CF: ❌
+[LIVE] 167.71.182.192:80 | TRANSPARENT | DATACENTER | 6701ms | Score: 25 | ISP: DigitalOcean, LLC | Google: ❌ CF: ❌
+[LIVE] 174.138.168.91:8001 | TRANSPARENT | DATACENTER | 1508ms | Score: 45 | ISP: Secured Servers LLC | Google: ✅ CF: ✅
+[LIVE] 174.138.168.74:8001 | TRANSPARENT | DATACENTER | 3847ms | Score: 35 | ISP: Secured Servers LLC | Google: ❌ CF: ✅
+[LIVE] 174.138.162.198:8001 | TRANSPARENT | DATACENTER | 5567ms | Score: 45 | ISP: Secured Servers LLC | Google: ✅ CF: ✅
+[LIVE] 148.251.87.79:16379 | TRANSPARENT | DATACENTER | 1424ms | Score: 45 | ISP: Hetzner Online GmbH | Google: ✅ CF: ✅
+[LIVE] 91.200.163.190:8088 | TRANSPARENT | DATACENTER | 2595ms | Score: 35 | ISP: Dubrovskaya Nataliya Vladislavovna | Google: ❌ CF: ✅
+[LIVE] 35.209.198.222:80 | TRANSPARENT | DATACENTER | 6579ms | Score: 25 | ISP: Google LLC | Google: ❌ CF: ❌
+[LIVE] 167.71.245.33:3128 | TRANSPARENT | DATACENTER | 2802ms | Score: 35 | ISP: DigitalOcean, LLC | Google: ✅ CF: ❌
+[LIVE] 8.219.97.248:80 | TRANSPARENT | DATACENTER | 1086ms | Score: 35 | ISP: Alibaba Cloud (Singapore) Private Limited | Google: ❌ CF: ✅
+[LIVE] 168.110.52.228:3128 | TRANSPARENT | DATACENTER | 3999ms | Score: 35 | ISP: Oracle Corporation | Google: ✅ CF: ❌
+[LIVE] 174.138.161.204:8254 | TRANSPARENT | DATACENTER | 3530ms | Score: 45 | ISP: Secured Servers LLC | Google: ✅ CF: ✅
+[LIVE] 48.210.225.96:80 | TRANSPARENT | DATACENTER | 698ms | Score: 30 | ISP: Microsoft Corporation | Google: ❌ CF: ❌
+[LIVE] 177.234.217.88:999 | TRANSPARENT | DATACENTER | 4707ms | Score: 35 | ISP: Ufinet Panama S.A. | Google: ✅ CF: ❌
+[LIVE] 174.138.170.61:8001 | TRANSPARENT | DATACENTER | 4039ms | Score: 35 | ISP: Secured Servers LLC | Google: ✅ CF: ❌
+[LIVE] 97.74.87.226:80 | TRANSPARENT | DATACENTER | 2641ms | Score: 25 | ISP: GoDaddy.com, LLC | Google: ❌ CF: ❌
+[LIVE] 201.91.248.67:20183 | TRANSPARENT | DATACENTER | 7034ms | Score: 25 | ISP: Vivo | Google: ❌ CF: ❌
+[LIVE] 174.138.162.196:8254 | TRANSPARENT | DATACENTER | 3388ms | Score: 35 | ISP: Secured Servers LLC | Google: ✅ CF: ❌
+[LIVE] 174.138.163.50:8001 | TRANSPARENT | DATACENTER | 1540ms | Score: 25 | ISP: Secured Servers LLC | Google: ❌ CF: ❌
+[LIVE] 174.138.170.59:8001 | TRANSPARENT | DATACENTER | 6954ms | Score: 35 | ISP: Secured Servers LLC | Google: ❌ CF: ✅
+[LIVE] 79.110.200.27:8000 | TRANSPARENT | DATACENTER | 916ms | Score: 30 | ISP: Korbank S. A. | Google: ❌ CF: ❌
+[LIVE] 91.172.54.203:80 | TRANSPARENT | DATACENTER | 695ms | Score: 30 | ISP: SCALEWAY | Google: ❌ CF: ❌
+[LIVE] 212.47.232.28:80 | TRANSPARENT | DATACENTER | 630ms | Score: 30 | ISP: Scaleway SAS | Google: ❌ CF: ❌
+[LIVE] 174.138.168.78:8202 | TRANSPARENT | DATACENTER | 2328ms | Score: 35 | ISP: Secured Servers LLC | Google: ✅ CF: ❌
+[LIVE] 43.205.124.6:3128 | TRANSPARENT | DATACENTER | 317ms | Score: 35 | ISP: Amazon.com, Inc. | Google: ❌ CF: ❌
+[LIVE] 4.213.98.253:80 | TRANSPARENT | DATACENTER | 692ms | Score: 30 | ISP: Microsoft Corporation | Google: ❌ CF: ❌
+[LIVE] 174.138.170.60:8001 | TRANSPARENT | DATACENTER | 2331ms | Score: 35 | ISP: Secured Servers LLC | Google: ❌ CF: ✅
+[LIVE] 177.234.217.85:999 | TRANSPARENT | RESIDENTIAL | 2776ms | Score: 40 | ISP: Ufinet Panama S.A. | Google: ❌ CF: ❌
+[LIVE] 47.89.184.18:3128 | TRANSPARENT | DATACENTER | 701ms | Score: 30 | ISP: Alibaba.com LLC | Google: ❌ CF: ❌
+[LIVE] 174.138.119.88:80 | TRANSPARENT | DATACENTER | 693ms | Score: 30 | ISP: DigitalOcean, LLC | Google: ❌ CF: ❌
+[LIVE] 103.109.96.246:2610 | TRANSPARENT | RESIDENTIAL | 5011ms | Score: 40 | ISP: Digi Jadoo Broadband Ltd | Google: ❌ CF: ❌
+[LIVE] 5.175.183.171:1080 | TRANSPARENT | DATACENTER | 4442ms | Score: 35 | ISP: Servitro LTD | Google: ❌ CF: ✅
+[LIVE] 179.43.159.98:1080 | TRANSPARENT | DATACENTER | 5100ms | Score: 45 | ISP: Private Layer INC | Google: ✅ CF: ✅
+[LIVE] 174.138.162.197:8001 | TRANSPARENT | DATACENTER | 3765ms | Score: 45 | ISP: Secured Servers LLC | Google: ✅ CF: ✅
+[LIVE] 89.111.181.247:1080 | TRANSPARENT | RESIDENTIAL | 4415ms | Score: 50 | ISP: JSC "RU-CENTER" | Google: ❌ CF: ✅
+[LIVE] 103.156.75.242:8181 | TRANSPARENT | DATACENTER | 6199ms | Score: 25 | ISP: PT Trika Global Media | Google: ❌ CF: ❌
+[LIVE] 45.173.12.140:1994 | TRANSPARENT | RESIDENTIAL | 6298ms | Score: 50 | ISP: Atenea Telecomunicaciones | Google: ❌ CF: ✅
+[LIVE] 12.50.107.221:80 | TRANSPARENT | DATACENTER | 653ms | Score: 30 | ISP: AT&T Enterprises, LLC | Google: ❌ CF: ❌
+[LIVE] 174.138.168.76:8001 | TRANSPARENT | DATACENTER | 1878ms | Score: 35 | ISP: Secured Servers LLC | Google: ✅ CF: ❌
+[LIVE] 47.74.226.8:5001 | TRANSPARENT | DATACENTER | 899ms | Score: 30 | ISP: Alibaba Cloud LLC | Google: ❌ CF: ❌
+[LIVE] 168.138.50.91:80 | TRANSPARENT | DATACENTER | 509ms | Score: 35 | ISP: Oracle Corporation | Google: ❌ CF: ❌
+[LIVE] 12.50.107.219:80 | TRANSPARENT | DATACENTER | 584ms | Score: 35 | ISP: AT&T Enterprises, LLC | Google: ❌ CF: ❌
+[LIVE] 174.138.162.196:8001 | TRANSPARENT | DATACENTER | 1673ms | Score: 35 | ISP: Secured Servers LLC | Google: ❌ CF: ✅
+[LIVE] 40.89.145.14:80 | TRANSPARENT | DATACENTER | 594ms | Score: 35 | ISP: Microsoft Corporation | Google: ❌ CF: ❌
+[LIVE] 212.224.88.212:443 | TRANSPARENT | RESIDENTIAL | 5407ms | Score: 60 | ISP: Ultahost, Inc. | Google: ✅ CF: ✅
+[LIVE] 174.138.162.35:8001 | TRANSPARENT | DATACENTER | 2652ms | Score: 35 | ISP: Secured Servers LLC | Google: ❌ CF: ✅
+[LIVE] 84.47.150.125:1080 | TRANSPARENT | RESIDENTIAL | 1441ms | Score: 60 | ISP: LLC "Nauka-Svyaz" | Google: ✅ CF: ✅
+[LIVE] 103.35.191.244:1082 | TRANSPARENT | DATACENTER | 3277ms | Score: 35 | ISP: WorkTitans B.V. | Google: ✅ CF: ❌
+[LIVE] 183.110.216.159:8090 | TRANSPARENT | RESIDENTIAL | 626ms | Score: 45 | ISP: Korea Telecom | Google: ❌ CF: ❌
+[LIVE] 174.138.161.162:8001 | TRANSPARENT | DATACENTER | 5779ms | Score: 35 | ISP: Secured Servers LLC | Google: ✅ CF: ❌
+[LIVE] 177.193.203.37:8080 | TRANSPARENT | DATACENTER | 1607ms | Score: 25 | ISP: Claro NXT Telecomunicacoes Ltda | Google: ❌ CF: ❌
+[LIVE] 46.29.162.166:80 | TRANSPARENT | DATACENTER | 684ms | Score: 30 | ISP: LLC Baxet | Google: ❌ CF: ❌
+[LIVE] 89.58.55.33:80 | TRANSPARENT | DATACENTER | 661ms | Score: 30 | ISP: netcup GmbH | Google: ❌ CF: ❌
+[LIVE] 109.194.34.246:8082 | TRANSPARENT | DATACENTER | 1108ms | Score: 25 | ISP: JSC "ER-Telecom Holding" | Google: ❌ CF: ❌
+[LIVE] 79.110.200.148:8081 | TRANSPARENT | DATACENTER | 824ms | Score: 30 | ISP: Korbank S. A. | Google: ❌ CF: ❌
+[LIVE] 174.138.161.206:8001 | TRANSPARENT | DATACENTER | 1903ms | Score: 35 | ISP: Secured Servers LLC | Google: ❌ CF: ✅
+[LIVE] 174.138.168.74:8202 | TRANSPARENT | DATACENTER | 2810ms | Score: 45 | ISP: Secured Servers LLC | Google: ✅ CF: ✅
+[LIVE] 12.50.107.222:80 | TRANSPARENT | DATACENTER | 610ms | Score: 30 | ISP: AT&T Enterprises, LLC | Google: ❌ CF: ❌
+[LIVE] 8.213.151.128:3128 | TRANSPARENT | DATACENTER | 599ms | Score: 35 | ISP: Alibaba (US) Technology Co., Ltd. | Google: ❌ CF: ❌
+[LIVE] 139.99.237.62:80 | TRANSPARENT | DATACENTER | 2440ms | Score: 25 | ISP: OVH SAS | Google: ❌ CF: ❌
+[LIVE] 124.108.6.20:8085 | TRANSPARENT | DATACENTER | 583ms | Score: 35 | ISP: Mega Truenet Communication Co., Ltd. | Google: ❌ CF: ❌
+[LIVE] 160.22.215.254:80 | TRANSPARENT | DATACENTER | 582ms | Score: 35 | ISP: Akbor Power | Google: ❌ CF: ❌
+[LIVE] 195.62.50.17:8080 | TRANSPARENT | DATACENTER | 4720ms | Score: 35 | ISP: High Speed For Internet Services L.L.C | Google: ❌ CF: ✅
+[LIVE] 82.137.90.253:80 | TRANSPARENT | RESIDENTIAL | 3001ms | Score: 40 | ISP: Bulgarian Telecommunications Company Plc. | Google: ❌ CF: ❌
+[LIVE] 102.129.170.129:37234 | TRANSPARENT | DATACENTER | 4502ms | Score: 25 | ISP: networld communications SRL | Google: ❌ CF: ❌
+[LIVE] 5.161.50.82:8118 | TRANSPARENT | DATACENTER | 3238ms | Score: 35 | ISP: Hetzner Online GmbH | Google: ❌ CF: ✅
+[LIVE] 65.108.203.36:18080 | TRANSPARENT | DATACENTER | 1530ms | Score: 25 | ISP: Hetzner Online GmbH | Google: ❌ CF: ❌
+[LIVE] 194.150.220.163:1082 | TRANSPARENT | DATACENTER | 3225ms | Score: 35 | ISP: Global Connectivity Solutions LLP | Google: ✅ CF: ❌
+[LIVE] 178.212.144.7:80 | TRANSPARENT | RESIDENTIAL | 728ms | Score: 45 | ISP: IDEALAN Spolka Jawna - Piekarski | Google: ❌ CF: ❌
+[LIVE] 80.92.204.47:1082 | TRANSPARENT | DATACENTER | 1387ms | Score: 45 | ISP: WorkTitans B.V. | Google: ✅ CF: ✅
+[LIVE] 162.240.19.30:80 | TRANSPARENT | DATACENTER | 2437ms | Score: 25 | ISP: Unified Layer | Google: ❌ CF: ❌
+[LIVE] 87.120.222.214:444 | TRANSPARENT | RESIDENTIAL | 6793ms | Score: 50 | ISP: Global Connectivity Solutions LLP | Google: ✅ CF: ❌
+[LIVE] 179.43.159.98:1095 | TRANSPARENT | DATACENTER | 3956ms | Score: 45 | ISP: Private Layer INC | Google: ✅ CF: ✅
+[LIVE] 38.127.179.138:37234 | TRANSPARENT | DATACENTER | 4031ms | Score: 25 | ISP: Cogent Communications | Google: ❌ CF: ❌
+[LIVE] 174.138.162.234:8001 | TRANSPARENT | DATACENTER | 2053ms | Score: 45 | ISP: Secured Servers LLC | Google: ✅ CF: ✅
+[LIVE] 116.203.139.209:999 | TRANSPARENT | DATACENTER | 2467ms | Score: 25 | ISP: Hetzner Online GmbH | Google: ❌ CF: ❌
+[LIVE] 131.222.247.238:8080 | TRANSPARENT | RESIDENTIAL | 4823ms | Score: 50 | ISP: High Speed For Internet Services L.L.C | Google: ❌ CF: ✅
+[LIVE] 23.247.136.254:80 | TRANSPARENT | DATACENTER | 815ms | Score: 30 | ISP:  | Google: ❌ CF: ❌
+[LIVE] 45.168.244.16:8080 | TRANSPARENT | DATACENTER | 3338ms | Score: 45 | ISP: Maxima Internet Banda Larga | Google: ✅ CF: ✅
+[LIVE] 194.102.38.65:80 | TRANSPARENT | DATACENTER | 644ms | Score: 30 | ISP: M247 Europe SRL | Google: ❌ CF: ❌
+[LIVE] 209.135.168.41:80 | TRANSPARENT | DATACENTER | 680ms | Score: 30 | ISP: Snaju Development | Google: ❌ CF: ❌
+[LIVE] 103.147.152.12:1080 | TRANSPARENT | RESIDENTIAL | 2267ms | Score: 60 | ISP: RedSwitches Pty LTD. | Google: ✅ CF: ✅
+[LIVE] 174.138.162.236:8001 | TRANSPARENT | DATACENTER | 2535ms | Score: 35 | ISP: Secured Servers LLC | Google: ❌ CF: ✅
+[LIVE] 174.138.170.46:8001 | TRANSPARENT | DATACENTER | 3127ms | Score: 45 | ISP: Secured Servers LLC | Google: ✅ CF: ✅
+[LIVE] 113.160.132.26:8080 | TRANSPARENT | DATACENTER | 792ms | Score: 50 | ISP: VietNam Post and Telecom Corporation | Google: ✅ CF: ✅
+[LIVE] 47.238.203.170:50000 | TRANSPARENT | DATACENTER | 4727ms | Score: 25 | ISP: Alibaba Cloud LLC | Google: ❌ CF: ❌
+[LIVE] 206.206.126.177:2412 | TRANSPARENT | DATACENTER | 3179ms | Score: 35 | ISP: OVH SAS | Google: ❌ CF: ✅
+[LIVE] 212.127.95.235:8081 | TRANSPARENT | DATACENTER | 1966ms | Score: 25 | ISP: Korbank S.A | Google: ❌ CF: ❌
+[LIVE] 20.164.75.153:8080 | TRANSPARENT | DATACENTER | 1447ms | Score: 45 | ISP: Microsoft Corporation | Google: ✅ CF: ✅
+[LIVE] 174.138.161.221:8001 | TRANSPARENT | DATACENTER | 3697ms | Score: 45 | ISP: Secured Servers LLC | Google: ✅ CF: ✅
+[LIVE] 117.236.124.166:3128 | TRANSPARENT | DATACENTER | 4816ms | Score: 35 | ISP: BSNL Internet | Google: ✅ CF: ❌
+[LIVE] 174.138.162.37:8001 | TRANSPARENT | DATACENTER | 1661ms | Score: 25 | ISP: Secured Servers LLC | Google: ❌ CF: ❌
+[LIVE] 177.234.217.236:999 | TRANSPARENT | RESIDENTIAL | 2417ms | Score: 40 | ISP: Ufinet Panama S.A. | Google: ❌ CF: ❌
+[LIVE] 83.168.74.163:8080 | TRANSPARENT | DATACENTER | 795ms | Score: 30 | ISP: Korbank S. A. | Google: ❌ CF: ❌
+[LIVE] 178.140.3.161:5678 | TRANSPARENT | DATACENTER | 6111ms | Score: 25 | ISP: NCNET | Google: ❌ CF: ❌
+[LIVE] 219.93.101.60:80 | TRANSPARENT | DATACENTER | 810ms | Score: 30 | ISP: ADSL Streamyx Telekom Malaysia | Google: ❌ CF: ❌
+[LIVE] 181.174.231.30:9992 | TRANSPARENT | DATACENTER | 5771ms | Score: 25 | ISP: Sinergy Soluciones Integrales | Google: ❌ CF: ❌
+[LIVE] 39.102.213.187:1081 | TRANSPARENT | DATACENTER | 2645ms | Score: 25 | ISP: Hangzhou Alibaba Advertising Co | Google: ❌ CF: ❌
+[LIVE] 159.203.186.165:80 | TRANSPARENT | DATACENTER | 3849ms | Score: 25 | ISP: DigitalOcean, LLC | Google: ❌ CF: ❌
+[LIVE] 174.138.161.205:8001 | TRANSPARENT | DATACENTER | 1655ms | Score: 45 | ISP: Secured Servers LLC | Google: ✅ CF: ✅
+[LIVE] 193.160.209.58:1080 | TRANSPARENT | DATACENTER | 1805ms | Score: 45 | ISP: JSC "TIMEWEB" | Google: ✅ CF: ✅
+[LIVE] 212.58.132.5:8888 | TRANSPARENT | DATACENTER | 1008ms | Score: 45 | ISP: NSFOCUS, Inc. | Google: ✅ CF: ✅
+[LIVE] 174.138.162.194:8001 | TRANSPARENT | DATACENTER | 3766ms | Score: 25 | ISP: Secured Servers LLC | Google: ❌ CF: ❌
+[LIVE] 38.211.245.98:999 | TRANSPARENT | RESIDENTIAL | 5654ms | Score: 50 | ISP: Latencia 0 SA | Google: ❌ CF: ✅
+[LIVE] 12.50.107.217:80 | TRANSPARENT | RESIDENTIAL | 801ms | Score: 45 | ISP: AT&T Enterprises, LLC | Google: ❌ CF: ❌
+[LIVE] 81.181.104.227:80 | TRANSPARENT | DATACENTER | 672ms | Score: 30 | ISP: Virtono Networks SRL | Google: ❌ CF: ❌
+[LIVE] 174.138.170.44:8001 | TRANSPARENT | DATACENTER | 3661ms | Score: 35 | ISP: Secured Servers LLC | Google: ❌ CF: ✅
+[LIVE] 65.108.203.37:28080 | TRANSPARENT | DATACENTER | 1901ms | Score: 25 | ISP: Hetzner Online GmbH | Google: ❌ CF: ❌
+[LIVE] 174.138.170.45:8001 | TRANSPARENT | DATACENTER | 1965ms | Score: 25 | ISP: Secured Servers LLC | Google: ❌ CF: ❌
+[LIVE] 167.99.236.14:80 | TRANSPARENT | DATACENTER | 2577ms | Score: 25 | ISP: DigitalOcean, LLC | Google: ❌ CF: ❌
+[LIVE] 147.75.34.105:443 | TRANSPARENT | DATACENTER | 9114ms | Score: 35 | ISP: Equinix (EMEA) Acquisition Enterprises B.V. | Google: ❌ CF: ✅
+[LIVE] 174.138.168.90:8001 | TRANSPARENT | DATACENTER | 5197ms | Score: 25 | ISP: Secured Servers LLC | Google: ❌ CF: ❌
+[LIVE] 74.176.195.135:80 | TRANSPARENT | DATACENTER | 692ms | Score: 30 | ISP: Microsoft Corporation | Google: ❌ CF: ❌
+[LIVE] 210.177.178.148:80 | TRANSPARENT | DATACENTER | 6506ms | Score: 25 | ISP: Hong Kong Telecommunications (HKT) Limited Business Internet | Google: ❌ CF: ❌
+[LIVE] 174.138.163.52:8001 | TRANSPARENT | DATACENTER | 4018ms | Score: 25 | ISP: Secured Servers LLC | Google: ❌ CF: ❌
+[LIVE] 139.162.200.213:80 | TRANSPARENT | DATACENTER | 664ms | Score: 30 | ISP: LINODE-UK | Google: ❌ CF: ❌
+[LIVE] 159.224.232.194:8888 | TRANSPARENT | DATACENTER | 834ms | Score: 30 | ISP: Triolan | Google: ❌ CF: ❌
+[LIVE] 185.118.51.230:3128 | TRANSPARENT | DATACENTER | 6127ms | Score: 35 | ISP: AzFiberNet LLC | Google: ❌ CF: ✅
+[LIVE] 89.116.51.164:8080 | ELITE | DATACENTER | 545ms | Score: 60 | ISP: Hostinger International Limited | Google: ❌ CF: ❌
+[LIVE] 34.44.49.215:80 | TRANSPARENT | DATACENTER | 538ms | Score: 35 | ISP: Google LLC | Google: ❌ CF: ❌
+[LIVE] 152.70.91.193:40000 | TRANSPARENT | DATACENTER | 793ms | Score: 40 | ISP: Oracle Corporation | Google: ✅ CF: ❌
+[LIVE] 47.83.168.191:4000 | TRANSPARENT | DATACENTER | 2335ms | Score: 45 | ISP: Alibaba.com LLC | Google: ✅ CF: ✅
+[LIVE] 103.147.152.12:1095 | TRANSPARENT | RESIDENTIAL | 4131ms | Score: 60 | ISP: RedSwitches Pty LTD. | Google: ✅ CF: ✅
+[LIVE] 174.138.174.170:8001 | TRANSPARENT | DATACENTER | 6947ms | Score: 25 | ISP: Secured Servers LLC | Google: ❌ CF: ❌
+[LIVE] 174.138.161.187:8001 | TRANSPARENT | DATACENTER | 3324ms | Score: 35 | ISP: Secured Servers LLC | Google: ❌ CF: ✅
+[LIVE] 85.208.87.111:3128 | TRANSPARENT | DATACENTER | 815ms | Score: 30 | ISP: "Cloud Technologies" LLC trading as Cloud.ru | Google: ❌ CF: ❌
+[LIVE] 174.138.174.141:8001 | TRANSPARENT | DATACENTER | 6748ms | Score: 25 | ISP: Secured Servers LLC | Google: ❌ CF: ❌
+[LIVE] 85.208.200.185:8081 | TRANSPARENT | DATACENTER | 1994ms | Score: 25 | ISP: HAL Service SpA | Google: ❌ CF: ❌
+[LIVE] 65.108.159.129:8081 | TRANSPARENT | DATACENTER | 1927ms | Score: 25 | ISP: Hetzner Online GmbH | Google: ❌ CF: ❌
+[LIVE] 143.42.66.91:80 | TRANSPARENT | DATACENTER | 1501ms | Score: 25 | ISP: Akamai Technologies, Inc. | Google: ❌ CF: ❌
+[LIVE] 174.138.174.171:8001 | TRANSPARENT | DATACENTER | 1179ms | Score: 25 | ISP: Secured Servers LLC | Google: ❌ CF: ❌
+[LIVE] 186.226.167.191:3128 | TRANSPARENT | RESIDENTIAL | 4879ms | Score: 40 | ISP: Infortel Comunicacoes Ltda | Google: ❌ CF: ❌
+[LIVE] 174.138.163.54:8001 | TRANSPARENT | DATACENTER | 4742ms | Score: 35 | ISP: Secured Servers LLC | Google: ✅ CF: ❌
+[LIVE] 91.242.229.129:8092 | TRANSPARENT | DATACENTER | 1230ms | Score: 45 | ISP: WorkTitans B.V. | Google: ✅ CF: ✅
+[LIVE] 158.178.246.35:80 | TRANSPARENT | DATACENTER | 6761ms | Score: 25 | ISP: Oracle Corporation | Google: ❌ CF: ❌
+[LIVE] 177.19.167.242:80 | TRANSPARENT | DATACENTER | 4778ms | Score: 25 | ISP: Vivo | Google: ❌ CF: ❌
+[LIVE] 103.179.252.74:3128 | TRANSPARENT | DATACENTER | 4013ms | Score: 25 | ISP: PT Pusaka Kreasi Mandiri | Google: ❌ CF: ❌
+[LIVE] 45.153.231.229:8080 | TRANSPARENT | RESIDENTIAL | 1723ms | Score: 60 | ISP: UFO Hosting LLC | Google: ✅ CF: ✅
+[LIVE] 174.138.161.188:8001 | TRANSPARENT | DATACENTER | 3842ms | Score: 45 | ISP: Secured Servers LLC | Google: ✅ CF: ✅
+[LIVE] 5.129.248.58:3128 | TRANSPARENT | DATACENTER | 4172ms | Score: 35 | ISP: Adman LLC | Google: ❌ CF: ✅
+[LIVE] 185.234.66.87:1082 | TRANSPARENT | DATACENTER | 6943ms | Score: 25 | ISP: WorkTitans B.V. | Google: ❌ CF: ❌
+[LIVE] 103.178.176.14:8080 | TRANSPARENT | RESIDENTIAL | 3789ms | Score: 40 | ISP: Megatel Networks Private Limited | Google: ❌ CF: ❌
+[LIVE] 12.50.107.220:80 | TRANSPARENT | DATACENTER | 686ms | Score: 30 | ISP: AT&T Enterprises, LLC | Google: ❌ CF: ❌
+[LIVE] 176.101.220.90:8090 | TRANSPARENT | DATACENTER | 1569ms | Score: 25 | ISP: SDS-Vostok Ltd. | Google: ❌ CF: ❌
+[LIVE] 46.17.47.48:80 | TRANSPARENT | DATACENTER | 791ms | Score: 30 | ISP: LLC BAXET | Google: ❌ CF: ❌
+[LIVE] 212.108.115.59:8080 | TRANSPARENT | DATACENTER | 1673ms | Score: 45 | ISP: High Speed For Internet Services L.L.C | Google: ✅ CF: ✅
+[LIVE] 159.65.245.255:80 | TRANSPARENT | DATACENTER | 841ms | Score: 30 | ISP: DigitalOcean, LLC | Google: ❌ CF: ❌
+[LIVE] 174.138.174.138:8001 | TRANSPARENT | DATACENTER | 9437ms | Score: 25 | ISP: Secured Servers LLC | Google: ❌ CF: ❌
+[LIVE] 174.138.162.235:35839 | TRANSPARENT | DATACENTER | 3294ms | Score: 35 | ISP: Secured Servers LLC | Google: ✅ CF: ❌
+[LIVE] 174.138.162.238:38215 | TRANSPARENT | DATACENTER | 3861ms | Score: 35 | ISP: Secured Servers LLC | Google: ✅ CF: ❌
+[LIVE] 103.161.171.238:8080 | TRANSPARENT | RESIDENTIAL | 3167ms | Score: 60 | ISP: VINABISON | Google: ✅ CF: ✅
+[LIVE] 174.138.161.221:58199 | TRANSPARENT | DATACENTER | 6095ms | Score: 25 | ISP: Secured Servers LLC | Google: ❌ CF: ❌
+[LIVE] 94.131.106.230:1081 | TRANSPARENT | DATACENTER | 8156ms | Score: 35 | ISP: WorkTitans B.V. | Google: ✅ CF: ❌
+[LIVE] 174.138.161.163:8185 | TRANSPARENT | DATACENTER | 3663ms | Score: 35 | ISP: Secured Servers LLC | Google: ✅ CF: ❌
+[LIVE] 104.161.23.122:5075 | TRANSPARENT | DATACENTER | 2726ms | Score: 45 | ISP: Input Output Flood LLC | Google: ✅ CF: ✅
+[LIVE] 174.138.161.219:8001 | TRANSPARENT | DATACENTER | 5299ms | Score: 35 | ISP: Secured Servers LLC | Google: ✅ CF: ❌
+[LIVE] 103.35.191.244:1081 | TRANSPARENT | DATACENTER | 2595ms | Score: 45 | ISP: WorkTitans B.V. | Google: ✅ CF: ✅
+[LIVE] 185.234.64.63:1081 | TRANSPARENT | DATACENTER | 2051ms | Score: 45 | ISP: WorkTitans B.V. | Google: ✅ CF: ✅
+[LIVE] 185.234.64.62:1082 | TRANSPARENT | DATACENTER | 6029ms | Score: 35 | ISP: WorkTitans B.V. | Google: ✅ CF: ❌
+[LIVE] 174.138.161.166:8185 | TRANSPARENT | DATACENTER | 2556ms | Score: 35 | ISP: Secured Servers LLC | Google: ❌ CF: ✅
+[LIVE] 45.146.243.133:1080 | TRANSPARENT | RESIDENTIAL | 3765ms | Score: 50 | ISP: Mejiro Network Limited | Google: ✅ CF: ❌
+[LIVE] 103.35.190.182:1082 | TRANSPARENT | DATACENTER | 2754ms | Score: 25 | ISP: WorkTitans B.V. | Google: ❌ CF: ❌
+[LIVE] 104.161.23.122:5072 | TRANSPARENT | DATACENTER | 3364ms | Score: 45 | ISP: Input Output Flood LLC | Google: ✅ CF: ✅
+[LIVE] 172.105.27.103:80 | ELITE | DATACENTER | 934ms | Score: 55 | ISP: Akamai Technologies | Google: ❌ CF: ❌
+[LIVE] 213.6.38.50:80 | ELITE | RESIDENTIAL | 829ms | Score: 70 | ISP: Palestine Telecommunications Company | Google: ❌ CF: ❌
+[LIVE] 86.104.72.220:1082 | TRANSPARENT | DATACENTER | 1311ms | Score: 45 | ISP: WorkTitans B.V. | Google: ✅ CF: ✅
+[LIVE] 46.36.37.133:8080 | TRANSPARENT | RESIDENTIAL | 699ms | Score: 45 | ISP: SecurityNet.cz s.r.o. | Google: ❌ CF: ❌
+[LIVE] 152.53.210.85:8081 | TRANSPARENT | RESIDENTIAL | 1172ms | Score: 40 | ISP: netcup GmbH | Google: ❌ CF: ❌
+[LIVE] 185.206.82.165:8080 | ELITE | RESIDENTIAL | 2468ms | Score: 65 | ISP: DIL Technology Limited | Google: ❌ CF: ❌
+[LIVE] 174.138.161.204:56288 | TRANSPARENT | DATACENTER | 5537ms | Score: 25 | ISP: Secured Servers LLC | Google: ❌ CF: ❌
+[LIVE] 134.209.17.232:80 | ELITE | DATACENTER | 514ms | Score: 60 | ISP: DigitalOcean, LLC | Google: ❌ CF: ❌
+[LIVE] 134.209.242.116:80 | ELITE | DATACENTER | 423ms | Score: 60 | ISP: DigitalOcean, LLC | Google: ❌ CF: ❌
+[LIVE] 41.60.232.201:8080 | ELITE | RESIDENTIAL | 5030ms | Score: 65 | ISP: Maintainer Liquid Telecommunications Operations Limited | Google: ❌ CF: ❌
+[LIVE] 103.35.190.69:1081 | TRANSPARENT | DATACENTER | 3481ms | Score: 25 | ISP: WorkTitans B.V. | Google: ❌ CF: ❌
+[LIVE] 5.75.139.30:1081 | TRANSPARENT | DATACENTER | 9508ms | Score: 35 | ISP: Hetzner Online GmbH | Google: ✅ CF: ❌
