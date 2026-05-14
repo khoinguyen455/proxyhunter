@@ -10,7 +10,7 @@
 ## Info Contact/Thông tin liên hệ
 - **Telegram:** [@khoinguyen566](https://t.me/khoinguyen566)
 - **Gruop Telegram:** [Join group](https://t.me/+WVAiTiVrELZlYmM1)
-## Proxy Hunter V1.0.0 - What's New
+## Proxy Hunter V1.0.0 - What's New/Có gì mới?
 ### English
 - Supports adding and removing sources
 - Allows selecting sources with checkboxes
