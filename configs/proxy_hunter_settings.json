@@ -1,0 +1,40 @@
+{
+  "theme": "dark",
+  "lang": "EN",
+  "ssl_judges": [
+    "https://ssl-judge1.api.proxyscrape.com/",
+    "https://ssl-judge2.api.proxyscrape.com/"
+  ],
+  "http_judges": [
+    "http://judge1.api.proxyscrape.com/",
+    "http://judge2.api.proxyscrape.com/",
+    "http://judge4.api.proxyscrape.com/",
+    "http://judge5.api.proxyscrape.com/"
+  ],
+  "ssl_enabled": {
+    "https://ssl-judge1.api.proxyscrape.com/": true,
+    "https://ssl-judge2.api.proxyscrape.com/": true
+  },
+  "http_enabled": {
+    "http://judge1.api.proxyscrape.com/": true,
+    "http://judge2.api.proxyscrape.com/": true,
+    "http://judge4.api.proxyscrape.com/": true,
+    "http://judge5.api.proxyscrape.com/": true
+  },
+  "custom_palette": {
+    "BG": "#0a0e14",
+    "BG2": "#0d1117",
+    "PANEL": "#111820",
+    "BORDER": "#1e2d3d",
+    "ACCENT": "#00d4ff",
+    "ACCENT2": "#00ff88",
+    "WARN": "#ff6b35",
+    "DEAD": "#ff3355",
+    "TEXT": "#c9d1d9",
+    "MUTED": "#4a5568",
+    "GOLD": "#ffd700",
+    "PURPLE": "#bd93f9"
+  },
+  "custom_sources": [],
+  "deleted_sources": []
+}
