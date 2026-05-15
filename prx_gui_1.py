@@ -1,3 +1,5 @@
+#VN: Đây là source code gốc 
+# EN: This is the original source code.
 import tkinter as tk
 from tkinter import ttk, filedialog, scrolledtext, colorchooser
 import requests
